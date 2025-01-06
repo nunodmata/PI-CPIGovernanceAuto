@@ -14,6 +14,12 @@ This project aims to automate the review of integration interfaces developed on 
 - [Rui Guilherme Monteiro](https://github.com/rushmetra) 
 - [Pedro Araújo](https://github.com/pedroarauj09) 
 
-Final Grade: 17/20
+
+### Links
+- [Project Code](https://github.com/nunodmata/PI-CPIGovernanceAuto/tree/main/project) 
+- [Project Documents, Diagrams and Presentations](https://github.com/nunodmata/PI-CPIGovernanceAuto/tree/main/docs)
+- [Final Presentation](https://pitch.com/v/cloud-platform-integration-6c4s72)
+
+**Final Grade: 17/20**
 
 <p>Made in Collaboration with Accenture</p>
