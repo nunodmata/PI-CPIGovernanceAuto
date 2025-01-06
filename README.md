@@ -14,4 +14,6 @@ This project aims to automate the review of integration interfaces developed on 
 - [Rui Guilherme Monteiro](https://github.com/rushmetra) 
 - [Pedro Araújo](https://github.com/pedroarauj09) 
 
+Final Grade: 17/20
+
 <p>Made in Collaboration with Accenture</p>
