@@ -5,6 +5,11 @@
 ### Introduction
 This project aims to automate the review of integration interfaces developed on the SAP Cloud Platform Integration (CPI) platform.
 
+### Links
+- [Project Code](https://github.com/nunodmata/PI-CPIGovernanceAuto/tree/main/project) 
+- [Project Documents, Diagrams and Presentations](https://github.com/nunodmata/PI-CPIGovernanceAuto/tree/main/docs)
+- [Final Presentation](https://pitch.com/v/cloud-platform-integration-6c4s72)
+
 ### Authors:  
 - [Cláudia Ribeiro](https://github.com/claudiadmr)
 - [Daniel Azevedo](https://github.com/danieltazevedo)
@@ -13,12 +18,6 @@ This project aims to automate the review of integration interfaces developed on 
 - [Rodrigo Rodrigues](https://github.com/webst2r)
 - [Rui Guilherme Monteiro](https://github.com/rushmetra) 
 - [Pedro Araújo](https://github.com/pedroarauj09) 
-
-
-### Links
-- [Project Code](https://github.com/nunodmata/PI-CPIGovernanceAuto/tree/main/project) 
-- [Project Documents, Diagrams and Presentations](https://github.com/nunodmata/PI-CPIGovernanceAuto/tree/main/docs)
-- [Final Presentation](https://pitch.com/v/cloud-platform-integration-6c4s72)
 
 **Final Grade: 17/20**
 
